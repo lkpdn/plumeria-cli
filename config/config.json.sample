@@ -1,0 +1,7 @@
+{
+  "ax_device" : {
+    "ip": "10.10.10.10",
+    "username": "admin",
+    "password": "admin"
+  }
+}
